@@ -35,4 +35,5 @@ curl -X POST http://localhost:5001/v1/users \
 
 ### nats.conf
 
-The file nats.conf is exclusive to settings NATs and is inject inside container
+The file nats.conf is exclusive to settings NATs and is inject inside container. 
+* You can find more informations about this [here](https://docs.nats.io/running-a-nats-service/configuration)
