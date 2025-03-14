@@ -15,6 +15,8 @@ The repository is only simple exemple of pub/sub with NATs where 3 consumers sub
 
 ### Notes:
 
+The application is running with Docker following you can find instructions to start project
+
 ```shell
 # You can start application with:
 docker-compose up
