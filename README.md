@@ -1,7 +1,7 @@
 
 ### poc-nats
 
-The repository is only simple exemple with NATs where 3 consumers subscribed in the channel, and one producer create messages to channel.
+The repository is only simple exemple of pub/sub with NATs where 3 consumers subscribed in the channel, and one producer create messages to channel.
 
 ![image](https://github.com/user-attachments/assets/874889b5-7338-4632-b6d1-2ec2e6064d1a)
 
