@@ -13,6 +13,3 @@ WORKDIR /app
 COPY --from=build /app/build /app/build
 COPY --from=build /app/package*.json /app/
 COPY --from=build /app/node_modules /app/node_modules
-
-
-EXPOSE 3000
