@@ -32,3 +32,7 @@ curl -X POST http://localhost:5001/v1/users \
   -H "Content-Type: application/json" \
   -d '{"name": "John Doe", "email": "john.doe@example.com"}'
 ```
+
+### nats.conf
+
+The file nats.conf is exclusive to settings NATs and is inject inside container
