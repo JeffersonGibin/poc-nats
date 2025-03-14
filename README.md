@@ -2,9 +2,9 @@
 ### poc-nats
 
 The repository is only simple exemple of pub/sub with NATs where 3 consumers subscribed in the channel, and one producer create messages to channel.
-
+* [What is it NATS ?](https://docs.nats.io/nats-concepts/what-is-nats)
+  
 ![image](https://github.com/user-attachments/assets/874889b5-7338-4632-b6d1-2ec2e6064d1a)
-
 
 
 ### Nats Port.
