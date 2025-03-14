@@ -1,0 +1,24 @@
+{
+  "name": "poc-nats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "consumer:1": "node build/consumer-1.js",
+    "consumer:2": "node build/consumer-2.js",
+    "consumer:3": "node build/consumer-3.js",
+    "producer": "node build/producer.api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nats": "^2.29.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.8.2"
+  }
+}
